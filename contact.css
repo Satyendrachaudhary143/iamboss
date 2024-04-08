@@ -179,9 +179,9 @@ height:100vh;
     }
  
 }
-@media  (max-width: 768px){
+@media  (max-width: 950px){
     #tool{
-        
+            z-index: 1;
         margin-top: -42px;
     }
 
