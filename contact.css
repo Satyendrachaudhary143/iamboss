@@ -143,4 +143,36 @@ height:100vh;
     margin: 10px;
    
 }
+@media (max-width:576px) {
+    #img{
+        width: 90px;
+        height: 90px;
+        top: 10px;
+        /* border-radius: 50%;
+        border: 2px solid black;
+        position: absolute;
+        left: 0;
+        right: 0;
+       position: fixed; */
+    }
+    #plus{
+        right: 10px;
+    }
+    #contact_header p{
+        margin-top: 15px;
+        font-size: 20px;
+    }
+    #search{
+        margin-top: 60px;
+        
+    }
+    #all_contact_box{
+        width: 250px;
+    }
+    #main_all_contact_box{
+        width: 65%;
+    
+    }
+ 
+}
 
